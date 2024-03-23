@@ -64,8 +64,9 @@ body {
 }
 
 .container {
-  background: gainsboro;
+  background: rgb(45, 85, 98);
   padding: 30px 30px;
+  color: whitesmoke;
 }
 
 .info-container {
@@ -78,9 +79,11 @@ body {
 h4 {
     margin-top: 30px;
     text-align: center;
+    font-size: 1.2rem;
     font-weight: 900;
     background-color: cadetblue;
     padding: 30px;
+    color: whitesmoke;
 }
 
 @media (min-width: 1001px) {
