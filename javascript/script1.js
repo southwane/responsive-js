@@ -18,6 +18,3 @@ menu.style.display="flex"
 
 
 
-  //   menu.style.display = "flex";
-  // alert("menu toggle function");
-  // console.log("menu button toggled");
