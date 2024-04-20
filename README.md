@@ -1,1 +1,1 @@
-# A responsize design nav bar and some body content styled with css
+# A responsize design nav bar with a little bit of CSS for styling
